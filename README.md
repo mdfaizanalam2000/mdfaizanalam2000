@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Faizan Alam</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://mdfaizanalam.tech](https://mdfaizanalam2000.github.io/portfolio-website)
+- 👨‍💻 All of my projects are available at [https://mdfaizanalam.me](https://mdfaizanalam2000.github.io/portfolio-website)
 
 - 📫 How to reach me **alamf015@gmail.com**
 
