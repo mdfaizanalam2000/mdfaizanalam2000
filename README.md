@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Faizan Alam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 👨‍💻 All my projects are available at [mdfaizanalam.me](https://mdfaizanalam.me)
+- 👨‍💻 All my projects are available at [mdfaizanalam2000.github.io](https://mdfaizanalam2000.github.io)
 
 - 📫 How to reach me **alamf015@gmail.com**
 
